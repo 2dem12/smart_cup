@@ -10,7 +10,7 @@ import telebot
 from googletrans import Translator
 from telebot import types
 
-que_t1 = ['Enter weapons.', "Who do you dislike the most", "What is your boy friend's name???", 'The most cozy place.',
+que_t1 = ['Enter weapons.', "Who do you dislike the most", "What is your boy friend name???", 'The most cozy place.',
           'How old are you??', 'What kind of gift do you want for the new year???',
           'Write something to get your story.']
 que_t2 = ['The coolest feature/technology.', "The best person.", 'What are you most afraid of???',
