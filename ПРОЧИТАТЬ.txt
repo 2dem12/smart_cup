@@ -1,0 +1,6 @@
+нужные библиотеки:
+pip install pyTelegramBotAPI
+pip install googletrans==4.0.0rc1
+
+ссылка на телеграмм бота:
+https://t.me/smart_cup_bot
